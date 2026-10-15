@@ -10,4 +10,4 @@ Edit profile details and papers in `content.json`, then run `python3 build.py` t
 
 Styling is in `styles.css`. Local previews do not send visits to Google Analytics.
 
-Typography uses [IBM Plex Sans](https://github.com/IBM/plex), served through Google Fonts with regular, medium, semibold, and italic styles. System sans-serif fonts provide a fallback.
+Typography uses [Source Serif 4](https://github.com/adobe-fonts/source-serif), served through Google Fonts with regular, medium, semibold, and italic styles. Georgia and other serif fonts provide a fallback.
