@@ -57,6 +57,9 @@ page = f'''<!doctype html>
   <meta property="og:type" content="website">
   <title>Volker Laux | The University of Texas at Austin</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://api.fontshare.com">
+  <link rel="preconnect" href="https://cdn.fontshare.com" crossorigin>
+  <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=satoshi@1,2&amp;display=swap">
   <link rel="stylesheet" href="styles.css?v={styles_version}">
   <script type="application/ld+json">{json.dumps(person, ensure_ascii=False)}</script>
   <script defer src="site.js"></script>
