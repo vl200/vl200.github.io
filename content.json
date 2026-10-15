@@ -1,0 +1,345 @@
+{
+  "profile": {
+    "name": "Volker Laux",
+    "title": "Professor of Accounting",
+    "chair": "Randal B. McDonald Chair in Accounting",
+    "department": "Shulkin Department of Accounting",
+    "department_url": "https://www.mccombs.utexas.edu/faculty-research/departments/accounting/",
+    "school": "McCombs School of Business",
+    "university": "The University of Texas at Austin",
+    "photo": "assets/volker-laux.jpg",
+    "cv": "https://drive.google.com/file/d/167xfOcmPLnP6YB14f7oKQkR6xGK2smid/view?usp=drive_link",
+    "faculty": "https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/profile/?username=vl2763",
+    "ssrn": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=327269"
+  },
+  "analytics": {
+    "measurement_id": "G-M758ZKREW1",
+    "production_hosts": [
+      "vl200.github.io"
+    ]
+  },
+  "working_papers": [
+    {
+      "title": "Audit Regulation for Financially Constrained Firms",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6560938",
+      "coauthors": "Negin Attar-Niggemann and Felix Niggemann",
+      "year": "2026",
+      "journal": "",
+      "citation": "",
+      "summary": "Stricter audit standards can increase financially constrained firms’ investment capacity despite raising audit fees.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6560938"
+    },
+    {
+      "title": "Effects of Revealing Client Names in PCAOB Inspection Reports on Private Litigation, Audit Effort, and Auditor Conservatism",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024651",
+      "coauthors": "Negin Attar-Niggemann and Felix Niggemann",
+      "year": "2026",
+      "journal": "",
+      "citation": "",
+      "summary": "Naming clients in PCAOB inspection reports can improve audit compliance yet reduce welfare by encouraging conservatism that blocks profitable investment.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024651"
+    },
+    {
+      "title": "Effects of Information Acquisition Costs on Corporate Investment and Surplus",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5351347",
+      "coauthors": "Hyun Hwang and Eunhee Kim",
+      "year": "2026",
+      "journal": "",
+      "citation": "",
+      "summary": "Lower costs for traders to acquire information about firms can reduce corporate investment and total surplus by increasing the trading losses borne by investors who provide firms’ capital.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5351347"
+    },
+    {
+      "title": "Financing Constraints, Performance Manipulation, and Founder Replacement",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5522778",
+      "coauthors": "",
+      "year": "2026",
+      "journal": "",
+      "citation": "",
+      "summary": "Financing constraints make generous founder exit packages unaffordable, encouraging performance manipulation and leading to too little replacement by professional managers.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5522778"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Macroeconomic Implications of Accounting Standards",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4856851",
+      "coauthors": "Hyun Hwang and Eunhee Kim",
+      "year": "Forthcoming",
+      "journal": "Journal of Accounting and Economics",
+      "citation": "Forthcoming",
+      "summary": "Conservative accounting standards can lower financing costs by reducing the number of firms seeking capital, while liberal standards can raise investors’ returns by expanding demand for funding.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4856851"
+    },
+    {
+      "title": "Financial Climate-Risk Measurement, Impact Funds, and Green Transitions",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790574",
+      "coauthors": "Lucas Mahieux",
+      "year": "2026",
+      "journal": "Journal of Accounting Research",
+      "citation": "64 (2026), 1867-1903",
+      "summary": "Requiring precise climate-risk measurement can reduce green transitions by limiting the subsidies firms can obtain from investors seeking environmental impact.",
+      "summary_source": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-679x.70042"
+    },
+    {
+      "title": "What Role do Boards Play in Companies with Visionary CEOs?",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3974228",
+      "coauthors": "Xu Jiang",
+      "year": "2024",
+      "journal": "Journal of Accounting Research",
+      "citation": "62 (2024), 981-1005",
+      "summary": "As a CEO’s confidence in their vision grows, the board shifts from advising to monitoring to rubberstamping, because imposing an alternative strategy can undermine the CEO’s motivation to implement it.",
+      "summary_source": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679X.12514"
+    },
+    {
+      "title": "Accounting Conservatism and Managerial Information Acquisition",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3642806",
+      "coauthors": "Christian Laux",
+      "year": "2024",
+      "journal": "Journal of Accounting and Economics",
+      "citation": "77 (2024), 101630",
+      "summary": "Conservative accounting can improve debt contracting because managers seeking to keep projects alive have stronger incentives to uncover evidence that overturns false alarms than to uncover problems hidden by optimistic reports.",
+      "summary_source": "https://doi.org/10.1016/j.jacceco.2023.101630"
+    },
+    {
+      "title": "Early-Warning Signals and Risk-Shifting Incentives",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3437073",
+      "coauthors": "Ronghuo Zheng",
+      "year": "2023",
+      "journal": "The Accounting Review",
+      "citation": "98 (2023), 273-288",
+      "summary": "Conservative reporting can curb excessive risk-taking by threatening empire builders with project liquidation, while liberal reporting can do so by leaving managers who prefer a quiet life responsible for running failing projects.",
+      "summary_source": "https://doi.org/10.2308/TAR-2019-0493"
+    },
+    {
+      "title": "Signaling Private Information via Accounting System Design",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551562",
+      "coauthors": "Aysa Dordzhieva and Ronghuo Zheng",
+      "year": "2022",
+      "journal": "Journal of Accounting and Economics",
+      "citation": "74 (2022), 101494",
+      "summary": "Adopting a liberal accounting system can signal favorable long-term prospects and thereby lower financing costs, even though overstated reports can lead investors to fund expansions whose expected benefits fall short of their costs.",
+      "summary_source": "https://doi.org/10.1016/j.jacceco.2022.101494"
+    },
+    {
+      "title": "Managerial Optimism and Debt Covenants",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3508354",
+      "coauthors": "Jakob Infuehr",
+      "year": "2022",
+      "journal": "Journal of Accounting Research",
+      "citation": "60 (2022), 353-371",
+      "summary": "Optimistic managers accept tighter debt covenants because giving lenders more opportunities to recover funds through liquidation lowers the repayment required when projects succeed, the outcome these managers consider more likely.",
+      "summary_source": "https://doi.org/10.1111/1475-679X.12402"
+    },
+    {
+      "title": "Debt Covenants and Accounting Manipulation",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2915311",
+      "coauthors": "",
+      "year": "2022",
+      "journal": "The Accounting Review",
+      "citation": "97 (2022), 293–314",
+      "summary": "Debt covenants can keep poor projects alive when managers hide bad news to retain control and then resist renegotiation because shutting down the project would expose their earlier misreporting.",
+      "summary_source": "https://doi.org/10.2308/TAR-2018-0727"
+    },
+    {
+      "title": "Conservative Accounting, Audit Quality, and Litigation",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2818038",
+      "coauthors": "Sebastian Kronenberger",
+      "year": "2022",
+      "journal": "Management Science",
+      "citation": "68 (2022), 2349-2362",
+      "summary": "Greater litigation risk can lead to less conservative reporting when auditing is inexpensive, because it also strengthens auditors’ incentives to verify financial reports.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2818038"
+    },
+    {
+      "title": "Effects of Accounting Conservatism on Investment Efficiency and Innovation",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2781261",
+      "coauthors": "Korok Ray",
+      "year": "2020",
+      "journal": "Journal of Accounting and Economics",
+      "citation": "70 (2020), 101319",
+      "summary": "Conservative accounting can encourage innovation by making favorable earnings reports more reliable, allowing boards to reward managers more strongly for developing new ideas while discouraging them from investing in projects with poor prospects.",
+      "summary_source": "https://doi.org/10.1016/j.jacceco.2020.101319"
+    },
+    {
+      "title": "Accounting Standards, Regulatory Enforcement, and Innovation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165410117300691",
+      "coauthors": "Phillip Stocken",
+      "year": "2018",
+      "journal": "Journal of Accounting and Economics",
+      "citation": "65 (2018), 221-236",
+      "summary": "Stronger enforcement calls for stricter accounting standards when penalties vary little with violation size, but for looser standards when penalties are sensitive to it.",
+      "summary_source": "https://www.sciencedirect.com/science/article/pii/S0165410117300691"
+    },
+    {
+      "title": "Supporting and Assessing Agents",
+      "url": "https://doi.org/10.1111/1475-679X.12173",
+      "coauthors": "",
+      "year": "2017",
+      "journal": "Journal of Accounting Research",
+      "citation": "55 (2017), 995-1016",
+      "summary": "Providing employees with extra resources and freedom can reveal their abilities more clearly, strengthen career incentives, and reduce the need for monitoring and bonuses.",
+      "summary_source": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-679X.12173"
+    },
+    {
+      "title": "Insider versus Outsider CEOs, Executive Compensation, and Accounting Manipulation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165410117300101",
+      "coauthors": "Prasart Jongjaroenkamol",
+      "year": "2017",
+      "journal": "Journal of Accounting and Economics",
+      "citation": "63 (2017), 253–261",
+      "summary": "Boards are more likely to recruit outside CEOs when reported performance is harder to manipulate, because reliable reports help them identify and replace unsuccessful hires, limiting the greater downside risk of appointing an outsider.",
+      "summary_source": "https://doi.org/10.1016/j.jacceco.2017.01.002"
+    },
+    {
+      "title": "Corporate Governance, Accounting Conservatism, and Manipulation",
+      "url": "https://doi.org/10.1287/mnsc.2015.2341",
+      "coauthors": "Judson Caskey",
+      "year": "2017",
+      "journal": "Management Science",
+      "citation": "63 (2017), 424-437",
+      "summary": "Stronger reporting oversight can improve investment efficiency while increasing accounting manipulation, because firms respond by adopting more conservative reporting systems.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2251378"
+    },
+    {
+      "title": "Executive Pay, Innovation, and Risk-Taking",
+      "url": "https://doi.org/10.1111/jems.12090",
+      "coauthors": "",
+      "year": "2015",
+      "journal": "Journal of Economics & Management Strategy",
+      "citation": "24 (2015), 272–301",
+      "summary": "Stock options encourage CEOs to search for innovative ideas, while restricted stock curbs excessive risk-taking and severance pay reduces the fear of dismissal that can deter worthwhile risky investments.",
+      "summary_source": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jems.12090"
+    },
+    {
+      "title": "Pay Convexity, Earnings Manipulation, and Project Continuation",
+      "url": "https://doi.org/10.2308/accr-50843",
+      "coauthors": "",
+      "year": "2014",
+      "journal": "The Accounting Review",
+      "citation": "89 (2014), 2233-2259",
+      "summary": "Stock options can encourage CEOs to manipulate interim reports to keep risky projects alive, even when their compensation depends entirely on long-term firm performance.",
+      "summary_source": "https://doi.org/10.2308/accr-50843"
+    },
+    {
+      "title": "Corporate Governance, Board Oversight, and CEO Turnover",
+      "url": "https://www.nowpublishers.com/article/Details/ACC-033",
+      "coauthors": "",
+      "year": "2014",
+      "journal": "Foundations and Trends in Accounting",
+      "citation": "8 (2014), 1-73",
+      "summary": "This review connects CEO assessment and replacement to executive pay, board monitoring, investment decisions, financial reporting, and the selection of new leaders.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2447404"
+    },
+    {
+      "title": "Managerial Reporting, Overoptimism, and Litigation Risk",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165410112000237",
+      "coauthors": "Phillip Stocken",
+      "year": "2012",
+      "journal": "Journal of Accounting and Economics",
+      "citation": "53 (2012), 577-591",
+      "summary": "Higher damages for misreporting can lower financing costs by increasing investors’ expected compensation if the firm fails, making misreporting to obtain funding more attractive to optimistic entrepreneurs who consider failure unlikely.",
+      "summary_source": "https://doi.org/10.1016/j.jacceco.2012.02.001"
+    },
+    {
+      "title": "Stock Option Vesting Conditions, CEO Turnover, and Myopic Investment",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304405X12001183",
+      "coauthors": "",
+      "year": "2012",
+      "journal": "Journal of Financial Economics",
+      "citation": "106 (2012), 513-526",
+      "summary": "Longer option vesting periods can encourage short-term investment because CEOs seek early successes to avoid dismissal and the loss of their unvested options.",
+      "summary_source": "https://doi.org/10.1016/j.jfineco.2012.06.003"
+    },
+    {
+      "title": "Board Independence, Executive Pay, and the Adoption of Pet Projects",
+      "url": "https://doi.org/10.1111/j.1911-3846.2011.01087.x",
+      "coauthors": "Brian Mittendorf",
+      "year": "2011",
+      "journal": "Contemporary Accounting Research",
+      "citation": "28 (2011), 1467-1483",
+      "summary": "Boards aligned with the CEO can discourage pet projects by offering stronger performance incentives, although doing so may increase the CEO’s compensation.",
+      "summary_source": "https://www.old.wiwi.uni-frankfurt.de/abteilungen/finance/seminar/brown-bag/summer-term-2009/abstract-laux.html"
+    },
+    {
+      "title": "Effects of Litigation Risk on Board Oversight and CEO Incentive Pay",
+      "url": "https://doi.org/10.1287/mnsc.1100.1165",
+      "coauthors": "",
+      "year": "2010",
+      "journal": "Management Science",
+      "citation": "56 (2010), 938-948",
+      "summary": "When monitoring is costly, greater director liability can lead boards to reduce performance-based CEO pay, weakening the CEO’s incentive to manipulate earnings and thereby leading boards to monitor less.",
+      "summary_source": "https://doi.org/10.1287/mnsc.1100.1165"
+    },
+    {
+      "title": "On the Benefits of Allowing CEOs to Time Their Stock Option Exercises",
+      "url": "https://doi.org/10.1111/j.1756-2171.2009.00092.x",
+      "coauthors": "",
+      "year": "2010",
+      "journal": "RAND Journal of Economics",
+      "citation": "41 (2010), 118-138",
+      "summary": "Allowing CEOs to choose when to exercise stock options can improve decisions to abandon weak projects by reducing options’ bias toward continued investment.",
+      "summary_source": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1756-2171.2009.00092.x"
+    },
+    {
+      "title": "Auditor Liability and Client Acceptance Decisions",
+      "url": "https://doi.org/10.2308/accr.2010.85.1.261",
+      "coauthors": "Paul Newman",
+      "year": "2010",
+      "journal": "The Accounting Review",
+      "citation": "85 (2010), 261-285",
+      "summary": "Stronger auditor liability can reduce client rejections because better audits make clients willing to pay higher fees that encourage careful evaluation, but very strict liability can make litigation expenses outweigh these benefits.",
+      "summary_source": "https://doi.org/10.2308/accr.2010.85.1.261"
+    },
+    {
+      "title": "Board Committees, CEO Compensation, and Earnings Management",
+      "url": "https://doi.org/10.2308/accr.2009.84.3.869",
+      "coauthors": "Christian Laux",
+      "year": "2009",
+      "journal": "The Accounting Review",
+      "citation": "84 (2009), 869-891",
+      "summary": "Assigning compensation and audit responsibilities to separate board committees can increase stock-based CEO pay because the compensation committee does not bear the additional oversight costs that such pay imposes on the audit committee.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1299773"
+    },
+    {
+      "title": "Board Independence and CEO Turnover",
+      "url": "https://doi.org/10.1111/j.1475-679X.2008.00269.x",
+      "coauthors": "",
+      "year": "2008",
+      "journal": "Journal of Accounting Research",
+      "citation": "46 (2008), 137-171",
+      "summary": "More independent boards are more willing to dismiss CEOs, but must offer larger severance payments to elicit honest information about their suitability for the job and larger stock option grants to offset the resulting weaker effort incentives.",
+      "summary_source": "https://doi.org/10.1111/j.1475-679X.2008.00269.x"
+    },
+    {
+      "title": "On the Value of Influence Activities for Capital Budgeting",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167268106002022",
+      "coauthors": "",
+      "year": "2008",
+      "journal": "Journal of Economic Behavior & Organization",
+      "citation": "65 (2008), 625-635",
+      "summary": "Requiring managers to spend effort advocating for projects can improve capital allocation by encouraging them to gather and reveal information about project prospects.",
+      "summary_source": "https://www.sciencedirect.com/science/article/abs/pii/S0167268106002022"
+    },
+    {
+      "title": "The Ignored Performance Measure",
+      "url": "https://doi.org/10.1111/j.1530-9134.2006.00115.x",
+      "coauthors": "",
+      "year": "2006",
+      "journal": "Journal of Economics & Management Strategy",
+      "citation": "15 (2006), 707-733",
+      "summary": "An informative performance measure can be worthless for incentive contracting when a manager must both evaluate a project and implement it.",
+      "summary_source": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1530-9134.2006.00115.x"
+    },
+    {
+      "title": "Performance Measurement and Information Production",
+      "url": "https://www.jstor.org/stable/40752593?seq=1#page_scan_tab_contents",
+      "coauthors": "Christian Laux",
+      "year": "2006",
+      "journal": "Journal of Institutional and Theoretical Economics JITE",
+      "citation": "162 (2006), 412-423",
+      "summary": "Imperfect performance measures can make weaker performance-based pay desirable because strong incentives encourage employees to spend effort learning how to game the measures.",
+      "summary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=625682"
+    }
+  ]
+}
