@@ -78,7 +78,7 @@ page = f'''<!doctype html>
         <p class="affiliation"><a href="{esc(p['department_url'])}">{esc(p['department'])}</a><br>
           <a href="https://www.mccombs.utexas.edu/">{esc(p['school'])}</a><br>
           <a href="https://www.utexas.edu/">{esc(p['university'])}</a></p>
-        <p class="contact"><a href="mailto:{esc(p['email'], quote=True)}">{esc(p['email'])}</a></p>
+        <p class="contact"><a href="mailto:{esc(p['email'], quote=True)}">{esc(p['email']).replace('@', '<wbr>@')}</a></p>
         <div class="profile-links">
           <a class="profile-link primary" href="{esc(p['cv'])}">Curriculum vitae <span aria-hidden="true">↗</span></a>
           <a class="profile-link" href="{esc(p['faculty'])}">Faculty profile <span aria-hidden="true">↗</span></a>
