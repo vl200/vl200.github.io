@@ -1,6 +1,6 @@
 # Volker Laux
 
-Academic website: https://vl200.github.io/
+Academic website: https://volkerlaux.github.io/
 
 Professor of Accounting, Shulkin Department of Accounting, McCombs School of Business, The University of Texas at Austin.
 

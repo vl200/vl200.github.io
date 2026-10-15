@@ -4,7 +4,7 @@
   const settings = {
   "measurement_id": "G-M758ZKREW1",
   "production_hosts": [
-    "vl200.github.io"
+    "volkerlaux.github.io"
   ]
 };
   const host = window.location.hostname;
