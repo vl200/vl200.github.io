@@ -118,7 +118,7 @@ page = f'''<!doctype html>
 </body>
 </html>
 '''
-(ROOT / "index.html").write_text(page)
+(ROOT / "index.html").write_text("\n".join(line.rstrip() for line in page.splitlines()) + "\n")
 settings = json.dumps(data["analytics"], indent=2)
 # Embed configuration so opening the local HTML file never requires a fetch.
 (ROOT / "analytics.js").write_text('''/* Existing Google Analytics property. Local previews never send traffic. */
