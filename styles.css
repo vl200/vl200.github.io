@@ -20,7 +20,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }
 .site-layout { display: grid; grid-template-columns: 255px minmax(0, 1fr); gap: 76px; align-items: start; padding-top: 60px; }
 .profile-panel { position: sticky; top: 36px; }
 .portrait { display: block; width: 160px; height: 178px; object-fit: cover; object-position: center 40%; border-radius: 3px; margin-bottom: 24px; }
-.profile-text h1 { margin: 0 0 12px; font-family: Georgia, "Times New Roman", serif; font-size: 37px; font-weight: 400; line-height: 1.14; letter-spacing: -1.3px; }
+.profile-text h1 { margin: 0 0 12px; font-family: inherit; font-size: 37px; font-weight: 400; line-height: 1.14; letter-spacing: -1.3px; }
 .profile-text p { margin: 0; }
 .chair { font-size: 14px; line-height: 1.55; max-width: 230px; }
 .affiliation { padding-top: 17px; color: var(--muted); font-size: 12px; line-height: 1.5; }

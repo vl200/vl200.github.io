@@ -71,7 +71,7 @@ page = f'''<!doctype html>
       <img class="portrait" src="{esc(p['photo'])}" alt="{esc(p['name'])}" width="540" height="540" fetchpriority="high">
       <div class="profile-text">
         <h1>{esc(p['name'])}</h1>
-        <p class="chair"><strong>{esc(p['chair'])}</strong></p>
+        <p class="chair">{esc(p['chair'])}</p>
         <p class="affiliation"><a href="{esc(p['department_url'])}">{esc(p['department'])}</a><br>
           <a href="https://www.mccombs.utexas.edu/">{esc(p['school'])}</a><br>
           <a href="https://www.utexas.edu/">{esc(p['university'])}</a></p>
