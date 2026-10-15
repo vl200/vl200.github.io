@@ -2,7 +2,7 @@
 
 Academic website: https://volkerlaux.github.io/
 
-Professor of Accounting, Shulkin Department of Accounting, McCombs School of Business, The University of Texas at Austin.
+Randal B. McDonald Chair in Accounting, Shulkin Department of Accounting, McCombs School of Business, The University of Texas at Austin.
 
 ## Updating the website
 

@@ -42,17 +42,18 @@ def paper(item, published=False):
 working = "\n".join(paper(x) for x in data["working_papers"])
 publications = "\n".join(paper(x, True) for x in data["publications"])
 person = {"@context": "https://schema.org", "@type": "Person", "name": p["name"],
-          "jobTitle": p["title"], "affiliation": {"@type": "Organization", "name": p["university"]},
+          "jobTitle": p["chair"], "email": p["email"],
+          "affiliation": {"@type": "Organization", "name": p["university"]},
           "sameAs": [p["faculty"], p["ssrn"]]}
 page = f'''<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Volker Laux, Professor of Accounting at the McCombs School of Business, The University of Texas at Austin. Working papers, publications, and curriculum vitae.">
+  <meta name="description" content="{esc(p['name'])}, {esc(p['chair'])} at the McCombs School of Business, The University of Texas at Austin. Working papers, publications, and curriculum vitae.">
   <meta name="theme-color" content="#faf9f6">
   <meta property="og:title" content="Volker Laux | The University of Texas at Austin">
-  <meta property="og:description" content="Working papers, publications, and curriculum vitae. Professor of Accounting, McCombs School of Business.">
+  <meta property="og:description" content="Working papers, publications, and curriculum vitae. {esc(p['chair'])}, McCombs School of Business.">
   <meta property="og:type" content="website">
   <title>Volker Laux | The University of Texas at Austin</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
@@ -70,11 +71,11 @@ page = f'''<!doctype html>
       <img class="portrait" src="{esc(p['photo'])}" alt="{esc(p['name'])}" width="540" height="540" fetchpriority="high">
       <div class="profile-text">
         <h1>{esc(p['name'])}</h1>
-        <p class="position">{esc(p['title'])}</p>
-        <p class="chair">{esc(p['chair'])}</p>
+        <p class="chair"><strong>{esc(p['chair'])}</strong></p>
         <p class="affiliation"><a href="{esc(p['department_url'])}">{esc(p['department'])}</a><br>
           <a href="https://www.mccombs.utexas.edu/">{esc(p['school'])}</a><br>
           <a href="https://www.utexas.edu/">{esc(p['university'])}</a></p>
+        <p class="contact"><a href="mailto:{esc(p['email'], quote=True)}">{esc(p['email'])}</a></p>
         <div class="profile-links">
           <a class="profile-link primary" href="{esc(p['cv'])}">Curriculum vitae <span aria-hidden="true">↗</span></a>
           <a class="profile-link" href="{esc(p['faculty'])}">Faculty profile <span aria-hidden="true">↗</span></a>

@@ -22,11 +22,13 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }
 .portrait { display: block; width: 160px; height: 178px; object-fit: cover; object-position: center 40%; border-radius: 3px; margin-bottom: 24px; }
 .profile-text h1 { margin: 0 0 12px; font-family: Georgia, "Times New Roman", serif; font-size: 37px; font-weight: 400; line-height: 1.14; letter-spacing: -1.3px; }
 .profile-text p { margin: 0; }
-.position { font-size: 14px; font-weight: 600; }
-.chair { padding-top: 5px; color: var(--muted); font-size: 12px; line-height: 1.65; max-width: 230px; }
+.chair { font-size: 14px; line-height: 1.55; max-width: 230px; }
 .affiliation { padding-top: 17px; color: var(--muted); font-size: 12px; line-height: 1.5; }
 .affiliation a { text-decoration: none; }
 .affiliation a:hover { color: var(--accent); text-decoration: underline; }
+.contact { padding-top: 12px; font-size: 12px; line-height: 1.6; }
+.contact a { color: var(--accent); text-decoration: none; overflow-wrap: anywhere; }
+.contact a:hover { text-decoration: underline; }
 .profile-links { display: flex; flex-wrap: wrap; gap: 16px; padding-top: 21px; }
 .profile-link { display: inline-flex; align-items: center; gap: 5px; color: var(--accent); text-decoration: none; font-size: 12px; font-weight: 500; }
 .profile-link:hover { text-decoration: underline; }
@@ -75,8 +77,7 @@ main { min-width: 0; }
   .profile { display: flex; align-items: flex-start; gap: 26px; }
   .portrait { flex: 0 0 auto; width: 140px; height: 164px; margin: 0; }
   .profile-text h1 { font-size: 34px; margin-top: -4px; }
-  .position { font-size: 13px; }
-  .chair { font-size: 11px; }
+  .chair { font-size: 13px; }
   .affiliation { font-size: 12px; padding-top: 12px; }
   .profile-links { padding-top: 14px; }
   .section-nav { margin-top: 28px; padding-block: 10px; border-bottom: 1px solid var(--line); }
