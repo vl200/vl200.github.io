@@ -42,7 +42,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }
 main { min-width: 0; }
 .research-section + .research-section { margin-top: 48px; }
 .section-heading { border-bottom: 1px solid #c5c3bb; padding-bottom: 17px; margin-bottom: 0; }
-.section-heading h2 { margin: -4px 0 0; font-family: Georgia, "Times New Roman", serif; font-size: 27px; font-weight: 400; line-height: 1.4; letter-spacing: -.6px; }
+.section-heading h2 { margin: -4px 0 0; font-family: inherit; font-size: 27px; font-weight: 400; line-height: 1.4; letter-spacing: -.6px; }
 .paper-list { padding: 0; margin: 0; list-style: none; }
 .paper + .paper { border-top: 1px solid var(--line); }
 .paper article { padding: 24px 0 25px; }
